@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Caneca Porcelana Branca AAA",
+            "description": "",
+            "prices": [
+                {
+                    "quantity": "1",
+                    "price": 3000
+                }
+            ],
+            "stock": 15
+        }
+    ]
+}
